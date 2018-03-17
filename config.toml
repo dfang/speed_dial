@@ -1,0 +1,50 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Speed Dial"
+theme = "slate"
+
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "search"
+tag = "search"
+icon = "search"
+
+[[ params.nav ]]
+name = "list"
+tag = "list"
+icon = "list"
+
+[[ params.nav ]]
+name = "link"
+tag = "link"
+icon = "link"
+
+[[ params.nav ]]
+name = "code"
+tag = "code"
+icon = "code"
+
+[[ params.nav ]]
+name = "golang"
+tag = "go"
+icon = "code"
+
+[[ params.nav ]]
+name = "code-branch"
+tag = "code-branch"
+icon = "code-branch"
+
+[[ params.nav ]]
+name = "node-js"
+tag = "node-js"
+icon = "node-js"
+
+[[ params.nav ]]
+name = "react"
+tag = "react"
+icon = "react"

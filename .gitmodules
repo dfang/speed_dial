@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:dfang/dfang.github.io.git
+	branch = master
+[submodule "themes/slate"]
+	path = themes/slate
+	url = https://github.com/dfang/slate.git

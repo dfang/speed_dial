@@ -1,0 +1,88 @@
+tiles:
+-
+  name: 'google'
+  url: 'https://google.com'
+  tags: ['favorite', 'search']
+-
+  name: 'bing'
+  url: 'https://bing.com'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['search']
+-
+  name: 'amazon'
+  url: 'https://amazon.com'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['favorite', 'shopping']
+-
+  name: 'reddit'
+  url: 'https://reddit.com'
+  bg_color: '#5f99cf'
+  txt_color: '#ffffff'
+-
+  name: 'spotify'
+  url: 'https://web.spotify.com'
+  bg_color: '#191414'
+  txt_color: '#1db954'
+  tags: ['favorite', 'music']
+-
+  name: 'pandora'
+  url: 'https://pandora.com'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['music']
+-
+  name: 'graphql'
+  url: 'http://graphql.org'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['code']
+-
+  name: 'howtographql'
+  url: 'http://howtographql.com'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['code']
+
+
+-
+  name: 'play.golang.org'
+  url: 'https://play.golang.org/'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['go']
+
+-
+  name: 'gobyexample.com/'
+  url: 'https://gobyexample.com/'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['go']
+
+-
+  name: 'https://gowebexamples.com/'
+  url: 'https://gowebexamples.com/'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['go']
+-
+  name: 'go by example 中文版'
+  url: 'https://gobyexample.xgwang.me/'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['go']
+-
+  name: 'hackr.io'
+  url: 'https://hackr.io/tutorials/learn-golang'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['go']
+-
+  name: 'effective go'
+  url: 'https://golang.org/doc/effective_go.html'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['go']
+
+
